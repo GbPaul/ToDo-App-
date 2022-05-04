@@ -3,7 +3,6 @@ import Button from "../UI/Button/Button"
 import Card from "../UI/Card/Card"
 import classes from "../UserForm/UserForm.module.css"
 import ErrorModal from "../UI/ErrorModal"
-import { Input } from "../UI/Input"
 
 interface Props {
   addTodo: AddTodo
