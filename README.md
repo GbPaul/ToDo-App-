@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project is created with typescript to make simple functional component project
 ![image](https://user-images.githubusercontent.com/19783928/166161632-fc03159d-a4be-4c80-941f-9674c3444d5a.png)
 
-Users can add to list and also cancel from the List, the form also validate if a text is entered 
+Users can add to list and also cancel from the List, the form also validate when a text is entered 
 ![image](https://user-images.githubusercontent.com/19783928/166161703-0ef66416-0984-4439-8a58-7d665bf8dbf6.png)
 
 
